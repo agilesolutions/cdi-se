@@ -26,7 +26,7 @@ This JAR forms the actual application.
 ## How to run
 
 ```bash
-mvn compile exc:java -Dexec.mainClass=io.smallrye.reactive.messaging.quickstart.QuickStart
+mvn compile exec:java -Dexec.mainClass=io.smallrye.reactive.messaging.quickstart.QuickStart
 ```
 
 ## Read
