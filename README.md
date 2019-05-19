@@ -1,6 +1,6 @@
 # CDI for SE with SmallRye Reactive Messaging
 
-This repository contains one application based on *OpenWebBeans*, and another based on *Weld SE*.
+This repository contains one application based on *Weld SE*.
 Those are CDI containers (think dependency injection) readily usable in a Java SE environment.
 For example, small apps or 12 factor apps.
 
